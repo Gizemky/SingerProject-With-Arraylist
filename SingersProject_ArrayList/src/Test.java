@@ -101,31 +101,36 @@ public class Test {
     		
     		break;
     		
+				
     		
     		case 2:
     			
-    	    add_singer();
+    	        add_singer();
     	    
-    	    break;
+    	        break;
+				
     	    
     	    
     		case 3:
     			
-    	    update_singer ();
+    	        update_singer ();
     	    
-    	    break;
+    	        break;
+				
     	    
     		case 4:
     			
-    	    deleted_singer	();
+    	        deleted_singer();
     	    
-    	    break;
+    	        break;
+				
     	    
     		case 5:
     			
     		find_singer ();
     		
     		break;
+				
     		
     		case 6:
     			
