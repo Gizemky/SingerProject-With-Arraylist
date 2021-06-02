@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Test {
 	
-    private static Singers singers = new Singers();   //Objemizi özellik olarak tanýmladýk baþka metodlarýn için de de kullanabilmek için.
+    private static Singers singers = new Singers();           //Objemizi Ã¶zellik olarak tanimladik baska metodlarin iÃ§inde de kullanabilmek iÃ§in.
     
     private static Scanner scanner = new Scanner (System.in);
 	
@@ -78,7 +78,7 @@ public class Test {
     	
 
     	
-    	while (!exit) {           //çýkýþ false deðeriy di not exit true deðeri oluyor.
+    	while (!exit) {                              //Ã§ikiÃ¾ false degeri idi not exit true degeri oluyor.
     		
         	System.out.println("Choose transactions : ");
         	transactions = scanner.nextInt();
